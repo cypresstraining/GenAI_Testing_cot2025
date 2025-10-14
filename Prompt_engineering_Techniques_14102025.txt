@@ -1,0 +1,97 @@
+Good Morning !!!!!
+Recap!
+a. What is AI /Gen AI and Agentic AI => AI Landscape 
+b. We understand how to become a AI powered Tester
+===========================
+Automation testing with AI:
+============================
+1. Playwright with MCP server  => Makes a automation tester job very easy by converting Manual test cases into automation scripts and so on
+=====================
+Ai product testing :
+=====================
+2. We understand how to test an AI application( Gen AI /Agentic AI ) .
+a. prompt engineering 
+b. python 
+c. Langchain frame work => gen AI application
+d. CrewAI framework => Multy agent application
+e. A real time testing project to implement all your learnings 
+=====================================================
+3. Positive testing 
+   Negative testing
+   happy path testing 
+   Non happy path testing 
+how do we use these methodology again in your AI product testing .
+=======================================================
+Project : Ai tutor application:
+class 8/9/10 student will use this application to get clear their questions in their subjects.
+A personal tutor to help their improvement in studies.
+
+a. Chatgpt kind of application but specially trained on 
+class 8/9/10 subjects. 
+so any question it will be cleared with example and kid friendly answer. 
+=======================================================
+Now to test this AI Tutor application we need to interact with the AI brain by using 
+Asking a question is the only way to interact with AI brain
+LLM ( large language model) => AI brain  => this can transform your questions into machine understandable format ( tokenise the question) and machine will assign tools or technologies to give answer for your questions.
+and then it translated into natural langue.
+
+send a question to LLM ( AI brain) in natural language and LLM will understand your question give the response in the Natural Language only. 
+========================================================
+The Art of asking a question is known as prompt engineering or prompting. 
+
+how many possible ways to ask a question is what we are leaning in the prompt engineering.
+=> you need to think positive/negative/happypath/non happy path and construct the question for all methodologies .
+========================================================
+Prompt techniques to test the AI product:
+
+1. single shot prompt or zero shot prompt :
+
+=> in this prompt directly we can ask a direct question to the AI brain . 
+there is no examples , no detailed explanation . 
+"write test cases for ecommerce application"
+
+2. Few shot prompts : [more detailed questioning]
+=> in this prompt we can a question and able to provide an example along with this question so that AI brain understand your prompt very effectively and able to deliver accurate response. 
+
+
+"Example 1: Q: What is evaporation? 
+ Evaporation is the process by which a liquid, like water, changes into a gas, like water vapor, without boiling.
+Example 2: Q: What is condensation? 
+Condensation is the process where a gas or vapor turns back into a liquid.
+
+ Now explain precipitation." The AI maintains the same simple, consistent format throughout.
+3. Conversational prompting :
+breakdown your questions into multiple questions so that we can save the previous question in to the ai brain temporary memory and refer that temporary memory to answer current question. context .
+========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
